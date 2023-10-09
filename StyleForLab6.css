@@ -1,0 +1,21 @@
+QMainWindow {
+    background-color: #cea262;
+    color: black; /* текст */
+}
+QMessageBox
+{
+    background-color: #d9c1a9; 
+    color: black; 
+}
+QPushButton {
+    background-color: #a47c45;
+    color: black;
+}
+
+QLabel {
+    color: black; 
+}
+
+QLineEdit {
+    background-color: #c3b091;
+}
